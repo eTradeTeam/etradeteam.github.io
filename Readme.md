@@ -1,0 +1,2 @@
+# eTradeTeam - Algorithmic Trade Collaboration
+
